@@ -2,7 +2,7 @@
 
 Questo progetto nasce dall'idea di avere grafici sull'andamento della diffusione del corona-virus in Italia. 
 
-La base di partenza per l'analisi sono i dati della protezione civile, ma per enfatizzzare l'andamento del contagio, il numero dei casi positivi viene ponderato sul numero dei tamponi eseguiti, 
+La base di partenza per l'analisi sono i dati della protezione civile, ma per enfatizzare l'andamento del contagio, il numero dei casi positivi viene ponderato sul numero dei tamponi eseguiti, 
 in modo da mettere in risalto la concentrazione dei casi positivi piuttosto che il numero assoluto.
 Inoltre è possibile visualizzare i dati giornalieri e non i dati cumulati, così da percepire immediatamente un eventuale trend. 
 
